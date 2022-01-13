@@ -16,16 +16,16 @@ abstract class _PomodoroStore with Store {
   bool iniciado = false;
 
   @observable
-  int minutos = 2;
+  int minutos = 10;
 
   @observable
   int segundos = 0;
 
   @observable
-  int tempoTrabalho = 2;
+  int tempoTrabalho = 10;
 
   @observable
-  int tempoDescanso = 1;
+  int tempoDescanso = 5;
 
   @observable
   TipoIntervalo tipoIntervalo = TipoIntervalo.TRABALHO;
