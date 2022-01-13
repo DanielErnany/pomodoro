@@ -1,0 +1,5 @@
+targets:
+  $default:
+    builders:
+      mobx_codegem|mobx_generator:
+        -"lib/store/**.store.dart"
