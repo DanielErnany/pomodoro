@@ -36,7 +36,7 @@ abstract class _PomodoroStore with Store {
   void iniciar() {
     iniciado = true;
 // Inicia o cronometro com o método periodic que chama uma função a cada duração de tempo
-    cronometro = Timer.periodic(Duration(milliseconds: 50), (timer) {
+    cronometro = Timer.periodic(Duration(seconds: 1), (timer) {
       // Se o tempo para a tarefa tenha acabado o tipo de intervalo é alterado
       if (minutos == 0 && segundos == 0) {
         _trocarTipoIntervalo();
