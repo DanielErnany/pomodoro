@@ -30,7 +30,7 @@ class Cronometro extends StatelessWidget {
             SizedBox(height: 20),
             Text(
               // O método padLeft/Rigth adiciona valores para completar o número de digitos desejados caso ele não tenha sido adquirido
-              '${store.minutos.toString().padLeft(2, '0')}:${store.segundos.toString().padRight(2, '0')}',
+              '${store.minutos.toString().padLeft(2, '0')}:${store.segundos.toString().padLeft(2, '0')}',
               style: TextStyle(
                 fontSize: 120,
                 color: Colors.white,
