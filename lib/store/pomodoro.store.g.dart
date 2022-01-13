@@ -180,6 +180,17 @@ mixin _$PomodoroStore on _PomodoroStore, Store {
   }
 
   @override
+  void _trocarTipoIntervalo() {
+    final _$actionInfo = _$_PomodoroStoreActionController.startAction(
+        name: '_PomodoroStore._trocarTipoIntervalo');
+    try {
+      return super._trocarTipoIntervalo();
+    } finally {
+      _$_PomodoroStoreActionController.endAction(_$actionInfo);
+    }
+  }
+
+  @override
   String toString() {
     return '''
 iniciado: ${iniciado},
