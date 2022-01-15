@@ -1,9 +1,10 @@
 # Pomodoro :tomato:
+[Clique aqui para acessar a aplicação flutter web](https://danielernany.github.io/pomodoro/#/)<br><br>
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanielErnany/pomodoro/blob/main/LICENSE) 
 
 # Sobre o projeto :book:
 
-https://danielernany.github.io/pomodoro/#/
+
 
 Pomodoro é uma aplicação Flutter web e mobile, a aplicação foi feita para exercitar e aprimorar meus conhecimentos sobre FLutter. O app consiste em um cronometro para gerenciar o tempo de acordo com a técnica pomodoro. A gerencia de estado foi feita utilizando o pacote mobX.
 
