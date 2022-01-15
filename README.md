@@ -6,7 +6,7 @@
 
 
 
-Pomodoro é uma aplicação Flutter web e mobile, a aplicação foi feita para exercitar e aprimorar meus conhecimentos sobre Flutter. O app consiste em um cronometro para gerenciar o tempo de acordo com a técnica pomodoro. A gerencia de estado foi feita utilizando o pacote mobX.
+Pomodoro é uma aplicação Flutter web e mobile, a aplicação foi feita para exercitar e aprimorar meus conhecimentos sobre Flutter. O app consiste em um cronômetro para gerenciar o tempo de acordo com a técnica pomodoro. A gerencia de estado foi feita utilizando o pacote mobX.
 
 ## Layout mobile :iphone:
 |Trabalho|Descanso|
