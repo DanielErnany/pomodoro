@@ -24,7 +24,8 @@ Pomodoro é uma aplicação Flutter web e mobile, a aplicação foi feita para e
 *  mobx: ^2.0.3
 *  flutter_mobx: ^2.0.1
 *  provider: ^5.0.0
-- Dependecias de desenvolvimento
+<p> Dependecias de desenvolvimento:</p>
+
 *  build_runner: ^2.0.6
 *  mobx_codegen: ^2.0.2
 
