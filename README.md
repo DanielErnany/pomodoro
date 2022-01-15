@@ -1,16 +1,21 @@
-# pomodoro
+# Pomodoro
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanielErnany/pomodoro/blob/main/LICENSE) 
 
-A new Flutter project.
+# Sobre o projeto
 
-## Getting Started
+https://danielernany.github.io/pomodoro/#/
 
-This project is a starting point for a Flutter application.
+Pomodoro é uma aplicação Flutter web e mobile, a aplicação foi feita para exercitar e aprimorar meus conhecimentos sobre FLutter. O app consiste em um cronometro para gerenciar o tempo de acordo com a técnica pomodoro. A gerencia de estado foi feita utilizando o pacote mobX.
 
-A few resources to get you started if this is your first Flutter project:
+## Layout mobile
+![Mobile trabalho](https://github.com/DanielErnany/assets/raw/main/pomodoro/mobile/pomodoroMobileTrabalho.png) ![Mobile descanso](https://github.com/DanielErnany/assets/raw/main/pomodoro/mobile/pomodoroMobileDescanso.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Layout web
+![Web trabalho](https://github.com/DanielErnany/assets/raw/main/pomodoro/web/pomodoroWebTrabalho.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Web descanso](https://github.com/DanielErnany/assets/raw/main/pomodoro/web/pomodoroWebDescanso.png)
+
+
+# Autor
+
+Daniel Ernany
